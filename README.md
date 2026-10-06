@@ -25,3 +25,11 @@ minecraft:
 - 💬 Ask me about `HTML` `CSS` `JavaScript` and anything Minecraft
 - 🌱 Currently exploring `AI` and web magic
 - 📖 More notes live in `YZC_document`
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzc12345779/yzc12345779/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzc12345779/yzc12345779/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yzc12345779/yzc12345779/output/github-contribution-grid-snake.svg" />
+</picture>
